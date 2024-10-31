@@ -1,8 +1,8 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "CloudSave"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "cloud-saving"
 
 #your name
 author: "You"
